@@ -1,2 +1,2 @@
 # datascience
-Project - Assingments / notes (jupyter, pandas)
+Project - Assingments / notes (jupyter, pandas, numpy)
